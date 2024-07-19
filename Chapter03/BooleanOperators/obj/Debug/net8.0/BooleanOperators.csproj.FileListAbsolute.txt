@@ -1,0 +1,14 @@
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\bin\Debug\net8.0\BooleanOperators.exe
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\bin\Debug\net8.0\BooleanOperators.deps.json
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\bin\Debug\net8.0\BooleanOperators.runtimeconfig.json
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\bin\Debug\net8.0\BooleanOperators.dll
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\bin\Debug\net8.0\BooleanOperators.pdb
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.dll
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\refint\BooleanOperators.dll
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.pdb
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\BooleanOperators.genruntimeconfig.cache
+C:\Users\amish\Downloads\Code\Chapter03\BooleanOperators\obj\Debug\net8.0\ref\BooleanOperators.dll

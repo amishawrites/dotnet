@@ -1,0 +1,14 @@
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\amish\Downloads\Code\Chapter02\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\amish\Downloads\Code\Chapter02\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\amish\Downloads\Code\Chapter02\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\amish\Downloads\Code\Chapter02\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\amish\Downloads\Code\Chapter02\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\amish\Downloads\Code\Chapter02\Variables\obj\Debug\net8.0\ref\Variables.dll
