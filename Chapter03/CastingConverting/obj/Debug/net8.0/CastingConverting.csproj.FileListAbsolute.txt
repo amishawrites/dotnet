@@ -1,0 +1,15 @@
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.AssemblyInfo.cs
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.sourcelink.json
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.exe
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.deps.json
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.runtimeconfig.json
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.dll
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\bin\Debug\net8.0\CastingConverting.pdb
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.dll
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\refint\CastingConverting.dll
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.pdb
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\CastingConverting.genruntimeconfig.cache
+C:\Users\amish\Downloads\Code\Chapter03\CastingConverting\obj\Debug\net8.0\ref\CastingConverting.dll

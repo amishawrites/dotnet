@@ -12,3 +12,4 @@ C:\Users\amish\Downloads\Code\Chapter03\SelectionStatements\obj\Debug\net8.0\ref
 C:\Users\amish\Downloads\Code\Chapter03\SelectionStatements\obj\Debug\net8.0\SelectionStatements.pdb
 C:\Users\amish\Downloads\Code\Chapter03\SelectionStatements\obj\Debug\net8.0\SelectionStatements.genruntimeconfig.cache
 C:\Users\amish\Downloads\Code\Chapter03\SelectionStatements\obj\Debug\net8.0\ref\SelectionStatements.dll
+C:\Users\amish\Downloads\Code\Chapter03\SelectionStatements\obj\Debug\net8.0\SelectionStatements.sourcelink.json
